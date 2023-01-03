@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CyxKris
 - 👀 I’m interested in Programming and Graphic Design
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
