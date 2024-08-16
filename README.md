@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CyxKris
+- 👋 Hi, I’m @CyxAero
 - 👀 I’m interested in Programming and Graphic Design
 - 🌱 I’m currently learning Front-End Web Development
 - 💞️ I’m looking to collaborate on ...
